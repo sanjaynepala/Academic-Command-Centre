@@ -2,7 +2,7 @@
 
 A real-time Streamlit dashboard that connects to a live Google Sheet to track student CGPA, pass rates, and departmental performance across a university campus.
 
-🔗 Live App: https://live-student-tracker-kzxsmllzw6ojiyrbihvhtv.streamlit.app/
+🔗 Live App: https://academic-command-centre-vms.streamlit.app/
 
 
 ✨ Features
